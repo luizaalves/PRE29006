@@ -20,5 +20,10 @@ clc;
   
   pmf_X_simul = histograma_X / Nexp;
   
+  %letra a
   bar(SX,pmf_X_simul) %plotando em formas de barra
+  
+  %letra b
+  mean(X)
+  var(X)
   
