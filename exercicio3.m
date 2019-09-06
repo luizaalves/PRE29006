@@ -1,7 +1,7 @@
 clear all;
 clc;
 
-  #Jogar o dado: D ~ Unif({1,2,3})
+  %Jogar o dado: D ~ Unif({1,2,3})
 
   Nexp =10;
 
